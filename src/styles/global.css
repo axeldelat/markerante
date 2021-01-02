@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#navigation-bar {
+  height: 16vh;
+}
+
+#hero-section {
+  background: url('https://markerante-s3.s3.amazonaws.com/markerante-brand.png');
+  background-position: center;
+  background-size: cover;
+  height: 84vh;
+}

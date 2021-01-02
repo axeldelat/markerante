@@ -42,6 +42,7 @@ export const query = graphql`
 `;
 
 const Category = ({ data }) => {
+  console.log(data)
   const articles = data.articles.edges;
   const category = data.category.name;
   const seo = {

@@ -26,11 +26,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: "gatsby-starter-default",
-        short_name: "starter",
+        name: "Markerante - Guía de Marketing para Restaurantes",
+        short_name: "Markerante",
         start_url: "/",
-        background_color: "#663399",
-        theme_color: "#663399",
+        background_color: "#E50F1C",
+        theme_color: "#E50F1C",
         display: "minimal-ui",
         icon: `src/images/markerante-icon.png`
       },
